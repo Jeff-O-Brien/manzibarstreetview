@@ -1,5 +1,5 @@
 # zeldabotwstreetview
-Google maps' street view but for Zelda Breath of The Wild
+Google maps' street view but for GTA V RP server Manzibar
 Visit the website : https://nassimsoftware.github.io/zeldabotwstreetview
 
 
